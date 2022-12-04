@@ -1,0 +1,14 @@
+{
+  "name": "youtube-video-downloader",
+  "version": "1.0.0",
+  "description": "We can download videos from youtube by this app.",
+  "main": "main.js",
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "tareq",
+  "license": "ISC"
+}
